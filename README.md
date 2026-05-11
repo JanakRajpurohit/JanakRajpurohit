@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=JanakRajpurohit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💫 About Me:
+# Hi there 👋 I'm Janak Rajpurohit<br><br>💻 B.Tech CSE Student passionate about UI/UX Design & Frontend Development  <br>🎨 I enjoy creating modern, responsive, and user-friendly digital experiences  <br>🌱 Currently learning React, Java, and advanced frontend development  <br>📚 Exploring UI/UX principles, APIs, and real-world project building  <br>⚡ Fun fact: I love combining creativity with technology to bring ideas to life<br><br>## 🚀 Skills<br>- Frontend: HTML, CSS, JavaScript, React<br>- UI/UX: Figma, Wireframing, Prototyping<br>- Tools: Git, GitHub, Excel<br><br>## 📫 Connect With Me<br>- Portfolio: https://janakraj.lovable.app/
+
